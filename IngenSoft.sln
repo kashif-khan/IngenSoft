@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "IngenSoftResources", "IngenSoftResources\IngenSoftResources.deployproj", "{E8AA4E4D-5A2F-4C6D-9E6E-2CCC60994EA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngenSoftFunctionApp", "IngenSoftFunctionApp\IngenSoftFunctionApp.csproj", "{B1B0EC54-4883-402D-8AA6-89FEB4353E39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E8AA4E4D-5A2F-4C6D-9E6E-2CCC60994EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8AA4E4D-5A2F-4C6D-9E6E-2CCC60994EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8AA4E4D-5A2F-4C6D-9E6E-2CCC60994EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B0EC54-4883-402D-8AA6-89FEB4353E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B0EC54-4883-402D-8AA6-89FEB4353E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B0EC54-4883-402D-8AA6-89FEB4353E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B0EC54-4883-402D-8AA6-89FEB4353E39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
